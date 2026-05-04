@@ -4,7 +4,7 @@
 
 **Backend Engineer · Blockchain Developer · AI Builder**
 
-Backend systems, Solidity contracts, ML-powered APIs & cloud infrastructure.
+I build Backend systems, Solidity contracts, ML-powered APIs & cloud infrastructure.
 
 ---
 
@@ -16,12 +16,11 @@ Backend systems, Solidity contracts, ML-powered APIs & cloud infrastructure.
 
 ---
 
-🌱 &nbsp;`RAG & AI Agents` &nbsp;`LLM fine-tuning` &nbsp;`LangChain` &nbsp;`PyTorch`
+🌱 &nbsp;**Currently Learning** &nbsp;·&nbsp; `RAG & AI Agents` &nbsp;`LLM fine-tuning` &nbsp;`LangChain` &nbsp;`PyTorch`
 
 ---
 
-[![Email](https://img.shields.io/badge/dennismuthama102%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dennismuthama102@gmail.com) &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-dennismuthama-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennismuthama) &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-Coding--papi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Coding-papi)
-
+[![Email](https://img.shields.io/badge/dennismuthama102%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dennismuthama102@gmail.com) &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-dennismuthama-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennismuthama) &nbsp;
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7b2ff7&height=50&section=footer" width="100%"/>
 
 </div>
