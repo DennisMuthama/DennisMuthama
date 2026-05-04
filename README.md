@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0052cc&height=80&section=header&text=Dennis%20Muthama&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00D4FF&height=80&section=header&text=Dennis%20Muthama&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 
@@ -46,8 +46,6 @@
 [![dennismuthama102@gmail.com](https://img.shields.io/badge/dennismuthama102%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dennismuthama102@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052cc,100:00D4FF&height=50&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=50&section=footer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7b2ff7&height=50&section=footer" width="100%"/>
 
 </div>
