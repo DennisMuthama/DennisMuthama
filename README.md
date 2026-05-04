@@ -1,6 +1,6 @@
 <div align="center">
 # 👋 Hi, I'm Dennis Muthama
-### Full-Stack Engineer & AI Specialist
+
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+intelligent+systems+at+scale+%E2%9C%A6;React+%E2%86%92+Python+%E2%86%92+ML+Pipelines+%E2%86%92+Cloud)
 
@@ -20,35 +20,6 @@
 ## 👋 &nbsp; About Me
 
 ```python
-class DennisMuthama:
-    def __init__(self):
-        self.name       = "DennisMuthama"
-        self.role       = "Full-Stack Engineer & AI Specialist"
-        self.location   = "Remote / Global"
-        self.experience = "4+ years"
-
-        self.currently  = [
-            "Building AI-powered tools and automation bots",
-            "Exploring LLM integrations and vector search",
-            "Open to freelance & remote opportunities",
-        ]
-
-        self.strengths  = [
-            "System Design",
-            "LLM Integration",
-            "Cloud Architecture",
-            "Product Thinking",
-        ]
-
-    def available(self) -> bool:
-        return True  # always
-
-Dennis DennisMuthama()
-Dennis.available()    # → True  ✅
-```
-
-<br/>
-
 ---
 
 ## 🛠️ &nbsp; Tech Stack
@@ -98,9 +69,6 @@ Dennis.available()    # → True  ✅
 </div>
 
 <br/>
-
----
-
 ## 🌱 &nbsp; Currently Learning
 
 | Technology | Status |
@@ -119,33 +87,19 @@ Dennis.available()    # → True  ✅
 - 🤖 &nbsp; **AI Prediction Markets** — merging LLMs with on-chain market data
 - ⛓️ &nbsp; **Decentralized AI** — trustless model inference and governance
 - 🔍 &nbsp; **Data Verification Systems** — provable data integrity on-chain
-
----
-
-
-
 <br/>
-## 🤝 &nbsp; Let's Connect
-
+🤝 &nbsp; Let's Connect
 <div align="center">
-
 *Have a project in mind, an engineering challenge to solve, or just want to connect?*
 *I'm always open to interesting conversations and opportunities.*
-
 <br/>
-
 [![Email](https://img.shields.io/badge/Email_Me-dennismuthama102@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jackCone001@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dennisMuthama?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 &nbsp;
-
-
 </div>
-
 <br/>
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
