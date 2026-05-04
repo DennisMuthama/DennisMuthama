@@ -16,7 +16,9 @@ I build Backend systems, Solidity contracts, ML-powered APIs & cloud infrastruct
 
 ---
 
-🌱 &nbsp;**Currently Learning** &nbsp;·&nbsp; `RAG & AI Agents` &nbsp;`LLM fine-tuning` &nbsp;`LangChain` &nbsp;`PyTorch`
+### 🌱 Currently Learning
+
+`RAG & AI Agents` &nbsp;`LLM fine-tuning` &nbsp;`LangChain` &nbsp;`PyTorch`
 
 ---
 
