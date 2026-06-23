@@ -18,7 +18,7 @@ I build Backend systems, Solidity contracts & deploy with cloud infrastructure.
 
 ### 🌱 Currently Learning
 
-`RAG & AI Agents` &nbsp;`LLM fine-tuning` &nbsp;`LangChain` &nbsp;`PyTorch`
+`Vyper` &nbsp;`Rust` &nbsp;`LangChain` &nbsp;`PyTorch`
 
 ---
 
