@@ -18,7 +18,7 @@ I build Backend systems, Solidity contracts & deploy with cloud infrastructure.
 
 ### 🌱 Currently Learning
 
-`Vyper` &nbsp;`Rust` &nbsp;`LangChain` &nbsp;`PyTorch`
+`Vyper` &nbsp;`Tolk` &nbsp;`LangChain` &nbsp;`PyTorch`
 
 ---
 
