@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00D4FF&height=75&section=header&text=Dennis%20Muthama&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%"/>
 
-**Backend Engineer · Blockchain Developer · python Expert**
+**Fullstack Engineer · Blockchain Developer · python Expert**
 
 I build Backend systems, Solidity contracts & deploy with cloud infrastructure.
 
